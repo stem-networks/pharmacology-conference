@@ -1,101 +1,101 @@
 {
   "data": {
-    "cid": "10032",
-    "site_url": "https://materialssciencesummit.com",
-    "clname": "Materials Science Conference",
-    "csname": "MSNC",
-    "clogotext": "MSNC-2026",
-    "sdate": "16",
-    "edate": "17",
-    "month": "April",
-    "year": "2026",
-    "venue_p1": "Barcelona, Spain",
-    "location_name": "",
-    "loc_address": "",
+    "cid": "10012",
+    "site_url": "https://pharma-meetings.com",
+    "clname": "Pharma, Pharmaceutics and Biotechnology Conference",
+    "csname": "PPBC",
+    "clogotext": "PPBC-2025",
+    "sdate": "08",
+    "edate": "09",
+    "month": "October",
+    "year": "2025",
+    "venue_p1": "Switzerland",
+    "location_name": "Intercity Hotel",
+    "loc_address": "Rte de Meyrin 127",
     "postal_code": "",
-    "v1": "Barcelona",
-    "v2": "Spain",
+    "v1": "Geneva",
+    "v2": "1219 Geneva",
     "venue_p2": "",
-    "cemail": "materials.msnc@stemnetwork.net",
+    "cemail": "ppbc@stemnetwork.net",
     "phone": "+1 (872) 2138-777",
     "whatsapp": "+1 (872) 2138-777",
-    "full_length_dates": "April 16-17, 2026",
+    "full_length_dates": "October 08-09, 2025",
     "full_length_venue": "Hybrid Event ",
-    "startDate": "2026-04-16",
-    "endDate": "2026-04-17",
-    "main_keyword": "Materials Science",
-    "confkeyword": "Materials Science"
+    "startDate": "2025-10-08",
+    "endDate": "2025-10-09",
+    "main_keyword": "Pharma",
+    "confkeyword": "Pharma"
   },
   "status": "200",
   "pages": {
     "index": [
       {
-        "title": "Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Welcome to the Materials Science Conference 2026 in Spain this April. Connect with leading experts, explore groundbreaking innovations in nanotechnology and materials science, and shape the future of nanomaterials.",
-        "meta_keywords": "Materials Science Conference 2026, Nanotechnology Conference, Nanomaterials Summit, Nanotech Innovations, Materials Science Event Spain, Nanomaterials Research Conference, Nanotechnology 2026 Spain"
+        "title": "Pharma, Pharmaceutics and Biotechnology Conference 2025 | Geneva, Switzerland | Oct 8-9 | Pharma conferences | PPBC -2025",
+        "content": "Discover the latest advancements in pharmaceutical sciences, drug development, and biotechnology at the Pharma, Pharmaceutics and Biotechnology Conference 2025 in Geneva, Switzerland, on October 8–9. Engage with global experts, researchers, and industry leaders at this premier European event.",
+        "meta_keywords": "Pharma Conference 2025, Pharmaceutics Conference Switzerland, Biotechnology Conference Geneva, Pharma and Biotechnology Congress, Pharmaceutical Sciences Meeting, Pharma Event Europe, Pharmaceutics and Drug Delivery Summit, Biotech Conference Switzerland 2025, Pharmaceutical Innovation Conference, Geneva Pharma Conference"
       }
     ],
     "sessions_meta": [
       {
-        "title": "Sessions | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Discover the diverse sessions at the Materials Science Conference 2026 in Spain. Explore groundbreaking presentations on nanotechnology, materials science innovations, and nanomaterials research.",
-        "meta_keywords": "Materials Science Conference Sessions, Nanotechnology Conference Sessions, Nanomaterials Research Presentations, Nanotechnology Sessions 2026, Materials Science Innovations, Nanomaterials Conference Spain, Nanotech Conference Sessions"
+        "title": "Pharma, Pharmaceutics and Biotechnology Conference Sessions | Geneva, Switzerland | Oct 8-9 | Pharma conferences | Biotechnology Conferences | PPBC 2025",
+        "content": "Explore the at the Pharma, Pharmaceutics and Biotechnology Conference 2025 in Geneva, Switzerland on October 8–9. This session will delve into the latest breakthroughs and research in pharmaceutical sciences, drug development, and biotechnology, led by top experts and industry leaders.",
+        "meta_keywords": "Pharma Session, Pharmaceutics Session, Biotechnology Session, Pharma and Biotechnology Research, Pharmaceutical Drug Development, Biotech Innovations, Pharma Conference 2025, Pharmaceutics Conference Geneva, Pharmaceutical Science Session, Biotechnology in Pharma"
       }
     ],
     "planning_committee": [
       {
-        "title": "Planning Committee | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Meet the esteemed planning committee behind the Materials Science Conference 2026. These experts are shaping the future of materials science and nanotechnology research.",
-        "meta_keywords": "Materials Science Planning Committee, Nanotechnology Conference Organizers, Nanomaterials Experts, Materials Science Innovation Leaders, Nanotechnology Event Committee, Nanomaterials Research Team, Nanotechnology Conference Planning"
+        "title": "Planning Committee | Pharma, Pharmaceutics and Biotechnology Conference 2025 | Geneva, Switzerland | PPBC 2025 | Pharma Conference",
+        "content": "Meet the dedicated Planning Committee behind the Pharma, Pharmaceutics and Biotechnology Conference 2025 in Geneva, Switzerland. This expert team ensures the successful organization of cutting-edge discussions and networking opportunities in pharmaceutical sciences, drug development, and biotechnology.",
+        "meta_keywords": "Pharma Conference Planning Committee, Pharmaceutics Conference Organizers, Biotechnology Event Committee, Pharma 2025 Organizers, Pharmaceutical Sciences Event Team, Conference Planning Committee Pharm, Biotech Conference Organizing Committee, Pharmaceutics and Biotechnology, Geneva Pharma Conference Team"
       }
     ],
     "organizing_committee": [
       {
-        "title": "Organizing Committee | Materials",
-        "content": "Be a part of uniquely enriching experience at our Global Materials Science Summit! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Materials Science.",
-        "meta_keywords": "Materials Science World Congress 2024,International Materials Science Conference,Global Materials Science Summit,Materials Research and Development Congress,Advanced Materials Science Conference,Materials Science and Engineering World Congress,Nanomaterials World Congress,Materials Science Congress keynote speakers,Emerging Materials Science Trends,Materials Science Innovations Summit,Materials Science and Technology Conference,Materials Science and Manufacturing Congress,Smart Materials Global Summit,Materials Chemistry World Congress,Materials Science Research Forum,Materials Science in Energy Applications Congress,Sustainable Materials Science Summit,Biomaterials World Congress,Materials Science and Nanotechnology Conference,Global Materials Science Research Congress"
+        "title": "Organizing Committee | Pharma & Pharmaceutics",
+        "content": "Be a part of uniquely enriching experience at our Global Pharmaceutical Conference! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Pharmaceutical.",
+        "meta_keywords": "Global Pharmaceutical Conference,International Pharma Summit,Pharma R&D Summit,Pharmaceutical innovation conference,Pharma industry global summit,Drug development summit 2024,Pharma conference keynote speakers,Pharma regulatory conference,Global healthcare and pharma summit,Pharma manufacturing summit,Pharma technology and innovation summit,Pharma digital transformation summit,Pharma research conference 2024,Pharma supply chain conference,Pharma and biotech summit,Global pharmaceutical industry forum,Pharma business strategies summit,Pharmaceutical leadership summit,Pharma trends and innovations"
       }
     ],
     "speakers": [
       {
-        "title": "Materials Science Conference 2026 Speakers | MSNC 2026 | Spain | April 2026",
-        "content": "Meet the esteemed speakers at the Materials Science Conference 2026. Hear from leading experts in materials science, nanotechnology, and nanomaterials research, as they share groundbreaking insights and innovations.",
-        "meta_keywords": "Materials Science Conference Speakers, Nanotechnology Experts, Nanomaterials Research Leaders, Nanotech Speakers 2026, Materials Science Innovators, Nanomaterials Experts, Nanotechnology Research Speakers"
+        "title": "Speakers | Pharma, Pharmaceutics and Biotechnology Conference 2025 | Geneva, Switzerland | PPBC 2025 | October Conferences",
+        "content": "Meet the distinguished speakers at the Pharma, Pharmaceutics and Biotechnology Conference 2025 in Geneva, Switzerland. This page features experts from the pharma, pharmaceutics, and biotechnology industries who will share their knowledge on cutting-edge research, innovations, and trends.",
+        "meta_keywords": "Pharma Conference Speakers 2025, Pharmaceutics Conference Speakers, Biotechnology Conference Speakers, Pharma Experts 2025, Keynote Speakers Pharma Conference, Pharmaceutical Leaders, Biotech Speakers Geneva, Pharma Industry Experts, Conference Speakers Europe, Leading Experts in Pharmaceutics and Biotechnology"
       }
     ],
     "down_brochure": [
       {
-        "title": "Download Brochure | Materials",
-        "content": "Be a part of uniquely enriching experience at our Global Materials Science Summit! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Materials Science.",
-        "meta_keywords": "Materials Science World Congress 2024,International Materials Science Conference,Global Materials Science Summit,Materials Research and Development Congress,Advanced Materials Science Conference,Materials Science and Engineering World Congress,Nanomaterials World Congress,Materials Science Congress keynote speakers,Emerging Materials Science Trends,Materials Science Innovations Summit,Materials Science and Technology Conference,Materials Science and Manufacturing Congress,Smart Materials Global Summit,Materials Chemistry World Congress,Materials Science Research Forum,Materials Science in Energy Applications Congress,Sustainable Materials Science Summit,Biomaterials World Congress,Materials Science and Nanotechnology Conference,Global Materials Science Research Congress"
+        "title": "Download Brochure | Pharma & Pharmaceutics",
+        "content": "Be a part of uniquely enriching experience at our Global Pharmaceutical Conference! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Pharmaceutical.",
+        "meta_keywords": "Global Pharmaceutical Conference,International Pharma Summit,Pharma R&D Summit,Pharmaceutical innovation conference,Pharma industry global summit,Drug development summit 2024,Pharma conference keynote speakers,Pharma regulatory conference,Global healthcare and pharma summit,Pharma manufacturing summit,Pharma technology and innovation summit,Pharma digital transformation summit,Pharma research conference 2024,Pharma supply chain conference,Pharma and biotech summit,Global pharmaceutical industry forum,Pharma business strategies summit,Pharmaceutical leadership summit,Pharma trends and innovations"
       }
     ],
     "FAQ": [
       {
-        "title": "FAQ’S | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Find answers to all your questions about the Materials Science Conference 2026 in Spain. Get details on registration, agenda, speakers, and more to help plan your participation.",
-        "meta_keywords": "Materials Science Conference FAQs, Nanotechnology FAQs, Nanomaterials Conference Questions, Nanotechnology Event Details, Materials Science Event Information, Nanomaterials Conference FAQs, Spain Nanotech Conference"
+        "title": "FAQs | Pharmacology & Pharmaceutics Conference 2025 | Answers to Your Questions | Pharma 2025 | PPBC 2025 | Pharma Conferences | October Conferences",
+        "content": "Find answers to the most frequently asked questions about the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Get information on registration, speakers, conference sessions, accommodations, and more. Everything you need to know for a smooth conference experience.",
+        "meta_keywords": "Pharmacology conference FAQ, Pharmaceutics conference questions, Frequently asked questions pharmacology, Conference FAQ pharmaceutics, Pharmacology & Pharmaceutics 2025 FAQs, Conference details FAQ, Event FAQ pharmacology pharmaceutics"
       }
     ],
     "submit_abstract": [
       {
-        "title": "Abstract Submission | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Submit your abstract for the Materials Science Conference 2026 in Spain. Share your latest research on materials science, nanotechnology, and nanomaterials with experts and be part of this groundbreaking event.",
-        "meta_keywords": "Abstract Submission Materials Science, Nanotechnology Abstracts, Nanomaterials Research Abstracts, Nanotech Conference Submission, Materials Science Conference 2026, Nanotechnology Research Submission, Nanomaterials Conference Spain"
+        "title": "Abstract Submission | Pharmacology & Pharmaceutics Conference 2025 | Submit Your Research | PPBC 2025 | October Conferences",
+        "content": "Submit your abstract for the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Share your latest research in pharmacology, pharmaceutics, and drug development. Gain the opportunity to present your work to industry leaders and academic experts in the field.",
+        "meta_keywords": "Pharmacology abstract submission, Pharmaceutics abstract, Pharmacology conference submission, Pharmaceutics research, Submit abstract pharmacology, Pharmaceutical research submission, Abstracts for pharmacology conference, Pharmaceutics research 2025"
       }
     ],
     "register": [
       {
-        "title": "Register for Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Secure your spot at the Materials Science Conference 2026 in Spain this April. Register now to join global experts and discover the latest advancements in materials science and nanotechnology.",
-        "meta_keywords": "Materials Science Conference Registration, Nanotechnology Conference 2026, Nanotech Event Spain, Register for Nanotechnology Conference, Materials Science Event Registration, Nanomaterials Conference 2026"
+        "title": "Register Now | Pharmacology & Pharmaceutics Conference 2025 | Join Us in Geneva | PPBC 2025 | October Conferences | Biotechnology Conferences",
+        "content": "Register today for the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Don’t miss the chance to attend this premier event focused on pharmaceutical research, drug development, and biopharmaceutical innovations. Secure your spot and be part of groundbreaking discussions in pharmacology and pharmaceutics.",
+        "meta_keywords": "Pharmacology conference registration, Pharmaceutics conference sign-up, Register for pharmacology event, Pharmaceutics conference 2025, Pharmacology conference Geneva, Pharma registration 2025, Register for pharmaceutics conference, Conference registration pharmacology, Pharmaceutics event registration"
       }
     ],
     "guidlines": [
       {
-        "title": "Guidelines | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Find all the important guidelines for the Materials Science Conference 2026 in Spain. Learn about paper submissions, participation requirements, and deadlines to be part of this groundbreaking event.",
-        "meta_keywords": "Materials Science Conference Guidelines, Nanotechnology Submission Guidelines, Nanomaterials Conference Participation, Nanotech Paper Submission, Conference Submission Guidelines, Nanomaterials Event Guidelines, Materials Science Conference 2026 Rules"
+        "title": "Submission Guidelines | Pharmacology & Pharmaceutics Conference 2025 | Important Information | PPBC 2025 | Pharma conferences | October Conferences ",
+        "content": "Review the submission guidelines for the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Ensure your research and abstract comply with the required format and criteria for successful submission. Get all the details on submission rules, presentation guidelines, and more.",
+        "meta_keywords": "Pharmacology submission guidelines, Pharmaceutics conference guidelines, Research submission rules, Pharmacology conference instructions, Pharmaceutics research guidelines, Conference submission requirements, Abstract submission rules, Pharmacology research guidelines, Pharmaceutics presentation instructions"
       }
     ],
     "terms": [
@@ -107,30 +107,30 @@
     ],
     "scientific_program": [
       {
-        "title": "Scientific Program | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Explore the comprehensive scientific program for the Materials Science Conference 2026. Dive into cutting-edge research, presentations, and discussions on materials science, nanotechnology, and nanomaterials by experts.",
-        "meta_keywords": "Scientific Program Materials Science, Nanotechnology Conference Agenda, Nanomaterials Research Program, Materials Science Conference Schedule, Nanotechnology Scientific Sessions, Nanomaterials Research Talks, Nanotech Conference 2026 Program"
-      }
-    ],
-    "venue": [
-      {
-        "title": "Venue | Materials Science Conference 2026 | MSNC 2026 | Spain, April 2026",
-        "content": "Discover the venue for the Materials Science Conference 2026 in Spain. Learn more about the world-class facilities and accommodations available for conference attendees.",
-        "meta_keywords": "Materials Science Conference Venue, Nanotechnology Conference Spain, Nanomaterials Conference Venue, Conference Location Spain, Nanotechnology Event Venue, Spain Conference Facilities, Nanotech Conference 2026 Venue"
+        "title": "Scientific Program | Pharmacology & Pharmaceutics Conference 2025 | Explore Key Sessions | PPBC 2025 | Biotechnology Conferences 2025 | Pharma 2025 Conferences",
+        "content": "Discover the Scientific Program for the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Explore the schedule of key sessions, topics, and speakers focused on the latest advancements in pharmacology, pharmaceutics, and drug development. Plan your participation and stay updated on the cutting-edge research presented at the event.",
+        "meta_keywords": "Pharmacology scientific program, Pharmaceutics conference schedule, Scientific program pharmacology, Conference scientific sessions, Pharmaceutics program 2025, Pharmacology & Pharmaceutics sessions, Conference agenda pharmacology, Pharmaceutics research program"
       }
     ],
     "register_details": [
       {
-        "title": "Register for Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Register now for the Materials Science Conference 2026 in Spain this April. Secure your spot to connect with experts and explore the latest innovations in materials science, nanotechnology, and nanomaterials.",
-        "meta_keywords": "Materials Science Conference Registration, Nanotechnology Conference Sign-up, Nanomaterials Event Registration, Nanotech Conference Spain 2026, Materials Science Conference Sign-up, Nanotechnology Event Registration"
+        "title": "Registration Details | Pharmacology & Pharmaceutics Conference 2025 | Important Information | PPBC 2025 | October Conferences | Pharma 2025",
+        "content": "Get all the essential registration details for the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Learn about the registration process, fees, deadlines, and additional information to ensure a smooth registration experience for this premier event in pharmaceutical research and drug development.",
+        "meta_keywords": "Pharmacology conference registration details, Pharmaceutics event registration, Conference registration information, Register for pharmacology 2025, Pharmaceutics registration process, Pharmacology & Pharmaceutics 2025 details, Registration guidelines pharmacology conference"
       }
     ],
     "privacy_policy": [
       {
-        "title": "Privacy Policy | Materials Science Conference 2026 | MSNC 2026 | Spain | April 2026",
-        "content": "Read the Privacy Policy for the Materials Science Conference 2026. Learn how we collect, use, and protect your personal information for a safe and secure conference experience.",
-        "meta_keywords": "Privacy Policy Materials Science Conference, Nanotechnology Conference Privacy, Nanomaterials Conference Data Protection, Conference Privacy Policy, Data Privacy Nanotechnology, Materials Science Data Usage, Nanotech Conference Privacy Terms"
+        "title": "Privacy Policy | Pharmacology & Pharmaceutics Conference 2025 | Your Data Protection | PPBC 2025 | October Conferences | Pharmacology 2025 Conferences",
+        "content": "Review the Privacy Policy for the Pharmacology & Pharmaceutics Conference 2025 in Geneva, Switzerland. Learn how we collect, use, and protect your personal data during the registration and participation process. Your privacy is important to us, and we are committed to safeguarding your information.",
+        "meta_keywords": "Pharmacology conference privacy policy, Pharmaceutics event data protection, Conference privacy policy, Data protection pharmacology, Pharmaceutics conference privacy terms, Event privacy policy, Personal data protection conference, Privacy terms pharmaceutics conference"
+      }
+    ],
+    "venue": [
+      {
+        "title": "Venue | Pharma, Pharmaceutics and Biotechnology Conference 2025 | Geneva, Switzerland | PPBC 2025 | Pharma Conference",
+        "content": "Join the Pharma, Pharmaceutics and Biotechnology Conference 2025 at Intercity Hotel, Geneva, Switzerland. Explore venue details, travel guidelines, and accommodation options for a seamless and engaging conference experience in Europe.",
+        "meta_keywords": "Pharma Conference 2025, Pharmaceutics Conference Switzerland, Biotechnology Conference Geneva, Pharma and Biotechnology Congress, Pharmaceutical Sciences Meeting, Pharma Event Europe, Pharmaceutics and Drug Delivery Summit, Biotech Conference Switzerland 2025, Pharmaceutical Innovation Conference, Geneva Pharma Conference, Intercity Hotel Geneva venue"
       }
     ]
   },
@@ -143,10 +143,6 @@
       "title": "Scientific Program",
       "link": "/scientific-program"
     },
-     {
-      "title": "Previous Conference",
-      "link": "/previous-conference"
-    },
     {
       "title": "Guidelines",
       "link": "/guidelines"
@@ -157,7 +153,7 @@
     },
     {
       "title": "Venue",
-      "link": "/venue"
+      "link": "venue"
     },
     {
       "title": "Submit Abstract",
@@ -171,15 +167,15 @@
   "social_links": {
     "facebook": {
       "link": "https://www.facebook.com/profile.php?id=61563649766977",
-      "title": "Materials Science Conference 2026 facebook"
+      "title": "Pharma, Pharmaceutics and Biotechnology Conference 2025 facebook"
     },
     "linkedin": {
       "link": "https://linkedin.com/company/stem-network-com",
-      "title": "Materials Science Conference 2026 linkedin"
+      "title": "Pharma, Pharmaceutics and Biotechnology Conference 2025 linkedin"
     },
     "instagram": {
       "link": "https://www.instagram.com/stemnetwork_com",
-      "title": "Materials Science Conference 2026 instagram"
+      "title": "Pharma, Pharmaceutics and Biotechnology Conference 2025 instagram"
     }
   }
 }

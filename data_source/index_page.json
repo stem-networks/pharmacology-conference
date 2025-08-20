@@ -7,38 +7,38 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming MSNC-2026. Timely registration and submissions will ensure you make the most of this premier event.",
+            "content": "Stay on track with our key dates to ensure you don't miss any important deadlines or events related to the conference.",
             "headding": "Important dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
             "category": "Explore_Our_Comprehensive_Networking_Services",
-            "content": "Unlock new opportunities and build valuable connections with our comprehensive networking services, tailored to enhance your conference experience.",
+            "content": "Unlock new opportunities and build valuable connections with our comprehensive networking services, tailored to enhance your conference experience",
             "headding": "Explore Our comprehensive Networking Services"
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Would you like to be a part of an energetic team leading in material science? Be a Material Science Conference volunteer! Help and connections will empower your future, and contribute to shaping the future of material science. Join us for an enduring mark on the technologies of tomorrow.",
+            "content": "Volunteer with the dedicated team of Pharma, Pharmaceutics and Biotechnology Conference 2025 and dedicate your skills and experience toward shaping a bright future for the pharmaceutical industry. Apply to this revolutionary event!",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Submit your abstract to MSNC 2026 and share your research in materials science and nanotechnology. Contribute to shaping the future of the industry.",
+            "content": "Submit an abstract to the PPBC and connect with the most influential pharmacists and pharmaceutical professionals. Share your thoughts in an evolving pharmacy and innovation world.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Come experience what our leading scientists are presenting covering new frontier areas including nanotechnology, smart materials, and sustainable solutions. This endeavour proposes to interface with the pertinent Questions defining the contours of Material Science.",
+            "content": "Join us at Pharma, Pharmaceutics and Biotechnology Conference 2025, for an in-depth journey of innovative break-through in drug development, personalized medicine, and pharmaceutical innovations! Dive into the works on the leading edge researches, emerging technologies, and regulatory trends with industry leaders. Time to be part of it and help shape the future face of health care solutions.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Materials Science Conference (MSNC)-2026, where dedicated professionals accumulate to discover the ultra-modern advancements and high-quality practices in healthcare.",
+            "content": "Welcome to the Pharma, Pharmaceutics and Biotechnology Conference 2025, focusing on developments in pharmaceutical sciences and health care in the presence of industry and health from across the globe.",
             "headding": "Footer content"
         },
         "offers_content": {
             "1": {
                 "category": "offers_content",
-                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by Sep. 2024 &amp; Save $1651!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\">Register now</a>\r\n        </div>",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by MAY. 2023 &amp; Save $1651!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\">Register now</a>\r\n        </div>",
                 "headding": "Offers Content"
             },
             "2": {
@@ -69,67 +69,67 @@
         }
     },
     "banner_conent": {
-        "9": {
-            "banner_conent_id": "9",
+        "7": {
+            "banner_conent_id": "7",
             "image": "images/banner.jpg",
-            "headding": "Pioneering Advances in Materials Science and Innovation",
-            "tag_line": "MSNC-April 16-17, 2026 in Barcelona, Spain",
-            "content": "Join the world's most in-demand materials science experts at the <b>Materials Science Conference</b>. Learn keynote sessions, speaker insights, and innovation. <b>Download our brochure</b> to see what's more about this conference and book your place now!",
+            "headding": "Shaping the Future of Global Healthcare: Innovations, Collaboration, and Sustainability in Pharma",
+            "tag_line": "PPBC-October 08-09, 2025 in Geneva, Switzerland",
+            "content": "Be at the Pharma, Pharmaceutics and Biotechnology Conference for a peek into the future of pharmaceuticals! Download our brochure to register for a one-of-a kind opportunity to mingle with industry experts, discuss cutting-edge research, and discuss the key trends.",
             "page": "index",
             "status": "1",
-            "cid": "10032"
+            "cid": "10012"
         }
     },
     "sessions": [
         {
-            "text": "1. Biomaterials",
-            "link": "biomaterials",
-            "session_short_name": "Biomaterials"
+            "text": "1. Drug Discovery and Screening",
+            "link": "drug-discovery-and-screening",
+            "session_short_name": "Drug Discovery and Screening"
         },
         {
-            "text": "2.\tApplications for Biomedical Devices",
-            "link": "applications-for-biomedical-devices",
-            "session_short_name": "Applications for Biomedical Devices"
+            "text": "2.\tPharmacogenomics",
+            "link": "novel-developments-in-drug-delivery-system",
+            "session_short_name": "Pharmacogenomics"
         },
         {
-            "text": "3.\tMaterial for Textile",
-            "link": "material-for-textile",
-            "session_short_name": "Material for Textile"
+            "text": "3.\tDrug Metabolism and Toxicology",
+            "link": "drug-metabolism-and-toxicology",
+            "session_short_name": "Drug Metabolism and Toxicology"
         },
         {
-            "text": "4.\tDrug Delivery",
-            "link": "drug-delivery",
-            "session_short_name": "Drug Delivery"
+            "text": "4.\tDrug design and Discovery",
+            "link": "drug-design-and-discovery",
+            "session_short_name": "Drug design and Discovery"
         },
         {
-            "text": "5.\tEmerging Materials for Energy Storage and Conversion",
-            "link": "emerging-materials-for-energy-storage-and-conversion",
-            "session_short_name": "Emerging Materials for Energy Storage and Conversion"
+            "text": "5.\tNovel Drug Delivery Systems",
+            "link": "novel-drug-delivery-systems",
+            "session_short_name": "Novel Drug Delivery Systems"
         },
         {
-            "text": "6. Material Recycling",
-            "link": "material-recycling",
-            "session_short_name": "Material Recycling"
+            "text": "6.\tDrug Delivery Systems",
+            "link": "drug-delivery-systems",
+            "session_short_name": "Drug Delivery Systems"
         },
         {
-            "text": "7. Nano devices and Applications",
-            "link": "nano-devices-and-applications",
-            "session_short_name": "Nano devices and Applications"
+            "text": "7. Inhaled Drug Delivery",
+            "link": "inhaled-drug-delivery",
+            "session_short_name": "Inhaled Drug Delivery"
         },
         {
-            "text": "8.Mining and Metallurgy",
-            "link": "mining-and-metallurgy",
-            "session_short_name": "Mining and Metallurgy"
+            "text": "8.Pharmacogenomics",
+            "link": "pharmacogenomics",
+            "session_short_name": "Pharmacogenomics"
         },
         {
-            "text": "9.\tInnovations in Surface Science",
-            "link": "innovations-in-surface-science-and-engineering",
-            "session_short_name": "Innovations in Surface Science and Engineering"
+            "text": "9.\tPharmacovigilance and Drug Safety",
+            "link": "pharmacovigilance-and-drug-safety",
+            "session_short_name": "Pharmacovigilance and Drug Safety"
         },
         {
-            "text": "10.\tAdvanced Semiconductor Materials for Electronics and Photonics",
-            "link": "advanced-semiconductor-materials-for-electronics-and-photonics",
-            "session_short_name": "Advanced Semiconductor Materials for Electronics and Photonics"
+            "text": "10. Bio Chemical Pharmacology",
+            "link": "bio-chemical-pharmacology",
+            "session_short_name": "Bio Chemical Pharmacology"
         }
     ],
     "important_dates": [
@@ -143,21 +143,21 @@
         }
     ],
     "venue_images": {
-        "9": {
+        "33": {
             "image": "images/g1.webp",
-            "alt_text": "Casa Batlló & Casa Milà"
+            "alt_text": "Lauterbrunnen Valley"
         },
-        "10": {
+        "34": {
             "image": "images/g2.webp",
-            "alt_text": "Camp Nou"
+            "alt_text": "Rhine Falls in Switzerland"
         },
-        "11": {
+        "35": {
             "image": "images/g3.webp",
-            "alt_text": "Barceloneta Beach"
+            "alt_text": "Trave live"
         },
-        "12": {
+        "36": {
             "image": "images/g4.webp",
-            "alt_text": "Gothic Quarter"
+            "alt_text": "Zermatt and the matterhorn"
         }
     }
 }

@@ -156,6 +156,8 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
 
                     {(() => {
                       const addressParts = [
+                        general.location_name,
+                        general.loc_address,
                         general.v1,
                         general.v2,
                       ].filter(Boolean) as string[];
@@ -172,9 +174,9 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
                 ) : null}
               </div>
 
-              <div className='approved-provider-block'>
+              {/* <div className='approved-provider-block'>
                 <Image src="/images/images/cpd.jpg" alt="CPD Accredited Conference" className='approved-prov-img' title="CPD Accredited Conference" width={360} height={130} />
-              </div>
+              </div> */}
 
               <div className="img_text5">
                 <Link href="/register" title={general.clname}>
