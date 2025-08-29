@@ -2,10 +2,10 @@
     "accommodation_prices": [
         {
             "id": "4",
-            "single": "250",
+            "single": "200",
             "doubl": "270",
             "tri": "0",
-            "accompanying": "200",
+            "accompanying": "150",
             "created_dt": "2024-07-15 15:05:58",
             "updated_dt": "2024-05-10 12:45:31",
             "status": "1",
@@ -80,27 +80,27 @@
     },
     "increment_price": {
         "Presenter (In-Person)": {
-            "Standard Registration Fee": "$1599",
-            "total": "849",
-            "min": "47",
+            "Standard Registration Fee": "$1399",
+            "total": "699",
+            "min": "50",
             "conference_dt": "2025-09-21"
         },
         "Listener (In-Person)": {
-            "Standard Registration Fee": "$1299",
-            "total": "949",
-            "min": "27",
+            "Standard Registration Fee": "$1499",
+            "total": "749",
+            "min": "50",
             "conference_dt": "2025-09-21"
         },
         "Presenter (Virtual)": {
             "Standard Registration Fee": "$299",
-            "total": "299",
-            "min": "-",
+            "total": "149",
+            "min": "50",
             "conference_dt": "2025-09-21"
         },
         "Listener (Virtual)": {
-            "Standard Registration Fee": "$399",
-            "total": "399",
-            "min": "-",
+            "Standard Registration Fee": "$359",
+            "total": "179",
+            "min": "50",
             "conference_dt": "2025-09-21"
         },
         "Student/Young Researcher": {

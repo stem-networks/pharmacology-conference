@@ -135,29 +135,29 @@
     "important_dates": [
         {
             "text": "First Round of Abstract Submission Deadline",
-            "date": "29<sub>th</sub> <span>August <br> 2025</span>"
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         },
         {
             "text": "Early Bird Registration Deadline",
-            "date": "29<sub>th</sub> <span>August <br> 2025</span>"
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         }
     ],
     "venue_images": {
         "33": {
             "image": "images/g1.webp",
-            "alt_text": "Lauterbrunnen Valley"
+            "alt_text": "Keukenhof Garden"
         },
         "34": {
             "image": "images/g2.webp",
-            "alt_text": "Rhine Falls in Netherlands"
+            "alt_text": "Rotterdam"
         },
         "35": {
             "image": "images/g3.webp",
-            "alt_text": "Trave live"
+            "alt_text": "Giethoorn"
         },
         "36": {
             "image": "images/g4.webp",
-            "alt_text": "Zermatt and the matterhorn"
+            "alt_text": "Amsterdam"
         }
     }
 }
