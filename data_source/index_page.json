@@ -13,27 +13,27 @@
         "Explore_Our_Comprehensive_Networking_Services": {
             "category": "Explore_Our_Comprehensive_Networking_Services",
             "content": "Unlock new opportunities and build valuable connections with our comprehensive networking services, tailored to enhance your conference experience",
-            "headding": "Explore Our comprehensive Networking Services"
+            "headding": "Unleash Your Growth: Benefits of Participating in Conferences"
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Volunteer with the dedicated team of Pharma, Pharmaceutics and Biotechnology Conference 2025 and dedicate your skills and experience toward shaping a bright future for the pharmaceutical industry. Apply to this revolutionary event!",
+            "content": "Join the <b>Biotechnology Conference 2026</b> as a volunteer and become an integral part of one of the year’s most impactful scientific gatherings. Volunteering offers a unique opportunity to gain behind-the-scenes experience, network with global experts, and contribute to the smooth execution of a world-class event.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Submit an abstract to the PPBC and connect with the most influential pharmacists and pharmaceutical professionals. Share your thoughts in an evolving pharmacy and innovation world.",
+            "content": "Present your innovative research at the Biotechnology Conference 2026. We welcome abstracts from scientists, academicians, and industry experts across all fields of biotechnology.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Join us at Pharma, Pharmaceutics and Biotechnology Conference 2025, for an in-depth journey of innovative break-through in drug development, personalized medicine, and pharmaceutical innovations! Dive into the works on the leading edge researches, emerging technologies, and regulatory trends with industry leaders. Time to be part of it and help shape the future face of health care solutions.",
+            "content": "The Biotechnology Conference 2026 will feature a series of dynamic and engaging sessions, covering cutting-edge advancements across various fields of biotechnology. These sessions are designed to foster collaboration, stimulate innovation, and provide participants with the latest insights into the biotechnological landscape.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to the Pharma, Pharmaceutics and Biotechnology Conference 2025, focusing on developments in pharmaceutical sciences and health care in the presence of industry and health from across the globe.",
-            "headding": "Footer content"
+            "content": "Welcome to our Global Biotechnology Conference, where leading scientists, researchers, and innovators gather to explore the latest breakthroughs and best practices shaping the future of biotechnology.",
+            "headding": "Footer Content"
         },
         "offers_content": {
             "1": {
@@ -72,62 +72,62 @@
         "7": {
             "banner_conent_id": "7",
             "image": "images/banner.jpg",
-            "headding": "Shaping the Future of Global Healthcare: Innovations, Collaboration, and Sustainability in Pharma",
-            "tag_line": "PPBC-October 08-09, 2025 in Geneva, Switzerland",
-            "content": "Be at the Pharma, Pharmaceutics and Biotechnology Conference for a peek into the future of pharmaceuticals! Download our brochure to register for a one-of-a kind opportunity to mingle with industry experts, discuss cutting-edge research, and discuss the key trends.",
+            "headding": "Biotechnology at the Crossroads of Innovation and Sustainability",
+            "tag_line": "PBC-May 21-22, 2026 in Amsterdam, Netherlands",
+            "content": "Discover program highlights, registration info, and networking opportunities. Download the brochure and get ready to connect, collaborate, and innovate.",
             "page": "index",
             "status": "1",
-            "cid": "10012"
+            "cid": "10036"
         }
     },
     "sessions": [
         {
-            "text": "1. Drug Discovery and Screening",
+            "text": "1.\tCRISPR and Advanced Genome Editing Technologies",
             "link": "drug-discovery-and-screening",
             "session_short_name": "Drug Discovery and Screening"
         },
         {
-            "text": "2.\tPharmacogenomics",
+            "text": "2.\tAI & Machine Learning for Biotech Innovation",
             "link": "novel-developments-in-drug-delivery-system",
             "session_short_name": "Pharmacogenomics"
         },
         {
-            "text": "3.\tDrug Metabolism and Toxicology",
+            "text": "3.\tSynthetic Biology and Next-Gen Bioengineering",
             "link": "drug-metabolism-and-toxicology",
             "session_short_name": "Drug Metabolism and Toxicology"
         },
         {
-            "text": "4.\tDrug design and Discovery",
+            "text": "4.\tmRNA and Next-Generation Vaccine Technologies",
             "link": "drug-design-and-discovery",
             "session_short_name": "Drug design and Discovery"
         },
         {
-            "text": "5.\tNovel Drug Delivery Systems",
+            "text": "5.\tGene Therapy and Regenerative Medicine Innovations",
             "link": "novel-drug-delivery-systems",
             "session_short_name": "Novel Drug Delivery Systems"
         },
         {
-            "text": "6.\tDrug Delivery Systems",
+            "text": "6.\tMicrobiome Research and Human Health Applications",
             "link": "drug-delivery-systems",
             "session_short_name": "Drug Delivery Systems"
         },
         {
-            "text": "7. Inhaled Drug Delivery",
+            "text": "7.\tSustainable Agri-Biotech for Climate-Resilient Farming",
             "link": "inhaled-drug-delivery",
             "session_short_name": "Inhaled Drug Delivery"
         },
         {
-            "text": "8.Pharmacogenomics",
+            "text": "8.\tEnvironmental Biotechnology & Green Solutions",
             "link": "pharmacogenomics",
             "session_short_name": "Pharmacogenomics"
         },
         {
-            "text": "9.\tPharmacovigilance and Drug Safety",
+            "text": "9.\tEnvironmental Biotechnology & Green Solutions",
             "link": "pharmacovigilance-and-drug-safety",
             "session_short_name": "Pharmacovigilance and Drug Safety"
         },
         {
-            "text": "10. Bio Chemical Pharmacology",
+            "text": "10.\tDigital Health and Biotechnology Integration",
             "link": "bio-chemical-pharmacology",
             "session_short_name": "Bio Chemical Pharmacology"
         }
@@ -149,7 +149,7 @@
         },
         "34": {
             "image": "images/g2.webp",
-            "alt_text": "Rhine Falls in Switzerland"
+            "alt_text": "Rhine Falls in Netherlands"
         },
         "35": {
             "image": "images/g3.webp",
