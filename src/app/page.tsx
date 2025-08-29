@@ -23,6 +23,7 @@ import {
   emptyRegisterInfo,
 } from "@/lib/fallbacks";
 import Speakers from "./components/Speakers";
+import WelcomeMessage from "./components/WelcomeMessage";
 
 async function safeFetch<T>(fn: () => Promise<T>, fallback: T): Promise<T> {
   try {
@@ -135,14 +136,15 @@ const Home = async () => {
         generalbannerInfo={general}
         onelinerBannerInfo={indexPageData}
       />
+      <WelcomeMessage />
       <Members />
       <SessionsComponent
         generalInfo={general_info}
         sessions={sessions}
         sessionContent={sessionContent}
       />
-      <MainSlider generalInfo={general} registerInfo={registerData} />
       <Speakers />
+      <MainSlider generalInfo={general} registerInfo={registerData} />
       <ImportantDates onelinerInfo={indexPageData} />
       <FaqsMain commonInfo={commonContent} />
       <Venue onelinerVenueInfo={indexPageData} />

@@ -81,26 +81,64 @@ const MediaCollaborators = () => {
                     <ul className="slider">
                         {/* Original Image Slides (without duplication) */}
                         <li className="slideimg">
-                            <Link href="http://cightech.com/" title="Cightech" target="_blank">
-                                <Image src="/images/images/cightech.webp" alt="Cightech" title="Cightech" width={180} height={100} />
+                            <Link
+                                href="https://allconferencealert.net/"
+                                title="All Conference Alert"
+                                target="_blank" 
+                            >
+                                <Image
+                                    src="/images/images/all_conf_alert.webp"
+                                    alt="All Conference Alert"
+                                    title="All Conference Alert" width={180} height={100}
+                                />
                             </Link>
                         </li>
 
                         <li className="slideimg">
-                            <Link href="https://eventsnotification.com/" title="Events Notification" target="_blank">
-                                <Image src="/images/images/events_notification.webp" alt="Events Notification" title="Events Notification" width={180} height={100} />
+                            <Link
+                                href="https://conferenceineurope.net/"
+                                title="Conference In Europe"
+                                target="_blank"
+                            >
+                                <Image
+                                    src="/images/images/urop_logo.webp"
+                                    alt="Conference In Europe"
+                                    title="Conference In Europe" width={180} height={100}
+                                />
+                            </Link>
+                        </li>
+
+                        <li className="slideimg">
+                            <Link
+                                href="https://internationalconferencealerts.com/"
+                                title="International Conference Alerts"
+                                target="_blank"
+                            >
+                                <Image
+                                    src="/images/images/intern_conf_alerts.webp"
+                                    alt="International Conference Alerts"
+                                    title="International Conference Alerts" width={180} height={100}
+                                />
+                            </Link>
+                        </li>
+
+                        <li className="slideimg">
+                            <Link
+                                href="https://eventsnotification.com/"
+                                title="Events Notification"
+                                target="_blank"
+                            >
+                                <Image
+                                    src="/images/images/events_notificatiopn.webp"
+                                    alt="Events Notification"
+                                    title="Events Notification" width={180} height={100}
+                                />
                             </Link>
                         </li>
 
                         <li className="slideimg">
                             <Link href="https://conferencenext.com/" title="Conference Next" target="_blank">
-                                <Image src="/images/images/conference_next.webp" alt="Conference Next" title="Conference Next" width={180} height={100} />
-                            </Link>
-                        </li>
-
-                        <li className="slideimg">
-                            <Link href="https://internationalconferencealerts.com/" title="International Conference Alerts" target="_blank">
-                                <Image src="/images/images/intern_conf_alerts.webp" alt="International Conference Alerts" title="International Conference Alerts" width={180} height={100}/>
+                                <Image src="/images/images/conference_next.webp" alt="Conference Next" title="Conference Next" width={180} height={100}/>
                             </Link>
                         </li>
                     </ul>
