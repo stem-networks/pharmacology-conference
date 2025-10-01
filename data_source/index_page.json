@@ -7,7 +7,7 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay on track with our key dates to ensure you don't miss any important deadlines or events related to the conference.",
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming PPBC-2026. Timely registration and submissions will ensure you make the most of this premier event.",
             "headding": "Important dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
@@ -17,22 +17,22 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Join the <b>Pharma, Pharmacology and Pharmaceutics Conference 2026</b> as a volunteer and become an integral part of one of the year’s most impactful scientific gatherings. Volunteering offers a unique opportunity to gain behind-the-scenes experience, network with global experts, and contribute to the smooth execution of a world-class event.",
+            "content": "Volunteer for the <b>Pharma, Pharmaceutics, and Pharmacology Conference 2026!</b> Give back your knowledge, gain enriching experience, and contribute to the shaping of the future of pharma innovation. Be a part of this revolutionizing event!",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Present your innovative research at the Pharma, Pharmacology and Pharmaceutics Conference 2026. We welcome abstracts from scientists, academicians, and industry experts across all fields of biotechnology.",
+            "content": "Submit your abstract at the Pharma, Pharmaceutics & Pharmacology Conference and interact with leading pharmacists and industry experts. Present your work and become a part of developing the future of pharmaceutical innovation.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "The Pharma, Pharmacology and Pharmaceutics Conference 2026 will feature a series of dynamic and engaging sessions, covering cutting-edge advancements across various fields of biotechnology. These sessions are designed to foster collaboration, stimulate innovation, and provide participants with the latest insights into the biotechnological landscape.",
+            "content": "Meet us at the Pharma, Pharmaceutics & Pharmacology Conference 2026 and discover advances in drug development, personalized medicine, and pharmaceutical innovation. Engage with industry leaders, learn about cutting-edge technologies, and influence the future of healthcare.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Global Pharma, Pharmacology and Pharmaceutics Conference, where leading scientists, researchers, and innovators gather to explore the latest breakthroughs and best practices shaping the future of biotechnology.",
+            "content": "Welcome to the Pharma, Pharmaceutics & Pharmacology Conference 2026, an international forum featuring the latest innovations in pharmaceutical sciences and healthcare, where industry experts, scientists, and healthcare professionals from across the world come together.",
             "headding": "Footer Content"
         },
         "offers_content": {
@@ -72,9 +72,9 @@
         "7": {
             "banner_conent_id": "7",
             "image": "images/banner.jpg",
-            "headding": "Biotechnology at the Crossroads of Innovation and Sustainability",
+            "headding": "Innovating Healthcare: Pioneering Advances in Pharmaceuticals and Pharmacology",
             "tag_line": "Pharma & Pharmacology-PPBC October 23-24, 2026 in Singapore",
-            "content": "Discover program highlights, registration info, and networking opportunities. Download the brochure and get ready to connect, collaborate, and innovate.",
+            "content": "Don't miss the Pharma, Pharmacology & Pharmaceutics Conference, where science converges with innovation! Download our brochure to connect with industry leaders, network with leading researchers, and discover the latest trends redefining the future of medicine.",
             "page": "index",
             "status": "1",
             "cid": "10051"
@@ -82,54 +82,54 @@
     },
     "sessions": [
         {
-            "text": "1.\tCRISPR and Advanced Genome Editing Technologies",
-            "link": "drug-discovery-and-screening",
-            "session_short_name": "Drug Discovery and Screening"
-        },
-        {
-            "text": "2.\tAI & Machine Learning for Biotech Innovation",
-            "link": "novel-developments-in-drug-delivery-system",
-            "session_short_name": "Pharmacogenomics"
-        },
-        {
-            "text": "3.\tSynthetic Biology and Next-Gen Bioengineering",
-            "link": "drug-metabolism-and-toxicology",
-            "session_short_name": "Drug Metabolism and Toxicology"
-        },
-        {
-            "text": "4.\tmRNA and Next-Generation Vaccine Technologies",
-            "link": "drug-design-and-discovery",
-            "session_short_name": "Drug design and Discovery"
-        },
-        {
-            "text": "5.\tGene Therapy and Regenerative Medicine Innovations",
-            "link": "novel-drug-delivery-systems",
-            "session_short_name": "Novel Drug Delivery Systems"
-        },
-        {
-            "text": "6.\tMicrobiome Research and Human Health Applications",
-            "link": "drug-delivery-systems",
+            "text": "1. Advances in Drug Delivery Systems",
+            "link": "advances-in-drug-delivery-systems",
             "session_short_name": "Drug Delivery Systems"
         },
         {
-            "text": "7.\tSustainable Agri-Biotech for Climate-Resilient Farming",
-            "link": "inhaled-drug-delivery",
-            "session_short_name": "Inhaled Drug Delivery"
+            "text": "2. Pharmacology & Drug Design",
+            "link": "pharmacology-drug-design",
+            "session_short_name": "Pharmacology & Drug Design"
         },
         {
-            "text": "8.\tEnvironmental Biotechnology & Green Solutions",
-            "link": "pharmacogenomics",
-            "session_short_name": "Pharmacogenomics"
+            "text": "3. Immunotoxicology",
+            "link": "immunotoxicology",
+            "session_short_name": "Immunotoxicology"
         },
         {
-            "text": "9.\tEnvironmental Biotechnology & Green Solutions",
-            "link": "pharmacovigilance-and-drug-safety",
-            "session_short_name": "Pharmacovigilance and Drug Safety"
+            "text": "4. Cardiovascular Pharmacology",
+            "link": "cardiovascular-pharmacology",
+            "session_short_name": "Cardiovascular Pharmacology"
         },
         {
-            "text": "10.\tDigital Health and Biotechnology Integration",
-            "link": "bio-chemical-pharmacology",
-            "session_short_name": "Bio Chemical Pharmacology"
+            "text": "5. Drug Discovery & Development",
+            "link": "drug-discovery-development",
+            "session_short_name": "Drug Discovery & Development"
+        },
+        {
+            "text": "6. Pharmacodynamics",
+            "link": "pharmacodynamics",
+            "session_short_name": "Pharmacodynamics"
+        },
+        {
+            "text": "7. Clinical Pharmacology",
+            "link": "clinical-pharmacology",
+            "session_short_name": "Clinical Pharmacology"
+        },
+        {
+            "text": "8. Drug Discovery & Screening",
+            "link": "drug-discovery-screening",
+            "session_short_name": "Drug Discovery & Screening"
+        },
+        {
+            "text": "9. Drug Safety",
+            "link": "drug-safety",
+            "session_short_name": "Drug Safety"
+        },
+        {
+            "text": "10. Clinical Trials",
+            "link": "clinical-trials",
+            "session_short_name": "Clinical Trials"
         }
     ],
     "important_dates": [
