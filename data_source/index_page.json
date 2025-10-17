@@ -7,7 +7,7 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming PPBC-2026. Timely registration and submissions will ensure you make the most of this premier event.",
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming PBC-2027. Timely registration and submissions will ensure you make the most of this premier event.",
             "headding": "Important dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
@@ -17,22 +17,22 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Volunteer for the <b>Pharma, Pharmaceutics, and Pharmacology Conference 2026!</b> Give back your knowledge, gain enriching experience, and contribute to the shaping of the future of pharma innovation. Be a part of this revolutionizing event!",
+            "content": "Volunteer for the <b>Pharma Conference 2027!</b> Give back your knowledge, gain enriching experience, and contribute to the shaping of the future of pharma innovation. Be a part of this revolutionizing event!",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Submit your abstract at the Pharma, Pharmaceutics & Pharmacology Conference and interact with leading pharmacists and industry experts. Present your work and become a part of developing the future of pharmaceutical innovation.",
+            "content": "Submit your abstract at the Pharma Conference and interact with leading pharmacists and industry experts. Present your work and become a part of developing the future of pharmaceutical innovation.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Meet us at the Pharma, Pharmaceutics & Pharmacology Conference 2026 and discover advances in drug development, personalized medicine, and pharmaceutical innovation. Engage with industry leaders, learn about cutting-edge technologies, and influence the future of healthcare.",
+            "content": "Meet us at the Pharma Conference 2027 and discover advances in drug development, personalized medicine, and pharmaceutical innovation. Engage with industry leaders, learn about cutting-edge technologies, and influence the future of healthcare.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to the Pharma, Pharmaceutics & Pharmacology Conference 2026, an international forum featuring the latest innovations in pharmaceutical sciences and healthcare, where industry experts, scientists, and healthcare professionals from across the world come together.",
+            "content": "Welcome to the Pharma Conference 2027, an international forum featuring the latest innovations in pharmaceutical sciences and healthcare, where industry experts, scientists, and healthcare professionals from across the world come together.",
             "headding": "Footer Content"
         },
         "offers_content": {
@@ -73,11 +73,11 @@
             "banner_conent_id": "7",
             "image": "images/banner.jpg",
             "headding": "Innovating Healthcare: Pioneering Advances in Pharmaceuticals and Pharmacology",
-            "tag_line": "Pharma & Pharmacology-PPBC October 23-24, 2026 in Singapore",
-            "content": "Don't miss the Pharma, Pharmacology & Pharmaceutics Conference, where science converges with innovation! Download our brochure to connect with industry leaders, network with leading researchers, and discover the latest trends redefining the future of medicine.",
+            "tag_line": "Pharma-PBC May 20-21, 2027 in Germany",
+            "content": "Don't miss the Pharma Conference, where science converges with innovation! Download our brochure to connect with industry leaders, network with leading researchers, and discover the latest trends redefining the future of medicine.",
             "page": "index",
             "status": "1",
-            "cid": "10051"
+            "cid": "10035"
         }
     },
     "sessions": [
