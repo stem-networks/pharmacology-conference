@@ -93,7 +93,7 @@
     ],
     "scientific_program": [
       {
-        "title": "Scientific Program | Pharma Conference 2027 | Germany ",
+        "title": "Scientific Program | Pharma Conference 2027 | Germany",
         "content": "Explore the comprehensive scientific program of Pharma Conference 2027, scheduled for May 20-21 in Germany. The program features keynote lectures, panel discussions, workshops, and technical sessions on drug discovery, clinical trials, biotechnology, and pharmaceutical innovations.",
         "meta_keywords": "Pharma Conference 2027 Scientific Program, Pharma Program Amsterdam, Pharma Conference Netherlands 2027, Pharmaceutical Science Program, Drug Discovery Sessions, Clinical Trials Program, Pharma Workshops, Biotechnology Conference Program, Pharma Keynote Sessions. "
       }
@@ -118,6 +118,13 @@
         "content": "Discover the venue for Pharma Conference 2027, happening May 20-21 in Germany. Get detailed information on the conference location, nearby accommodations, transportation options, and local attractions to make your visit seamless and enjoyable.",
         "meta_keywords": "Pharma Conference 2027 Venue, Pharma Conference Germany Location, Pharma Conference Germany 2027 Venue, Pharmaceutical Conference Venue Germany, Pharma Event Location, Pharma Conference Travel Information, Pharma Accommodation Germany, Pharma Conference Directions"
       }
+    ],
+    "previous_conference": [
+      {
+        "title": "Previous Conference | Pharma Conference | Germany | PPBC 2025",
+        "content": "Explore highlights from our previous Pharma Conference. Discover key sessions, groundbreaking research, expert speakers, and networking moments that shaped past events, paving the way for PPBC 2025 in Germany.",
+        "meta_keywords": "Previous Pharma Conference, Pharmaceutics Past Events, Biotechnology Conference Highlights, Pharma and Biotechnology Conference History, Pharma Event Recap, Pharmaceutics Conference Archives, Previous Drug Development Conference, Pharma and Biotech Research Events, Global Pharma Conference History, Past Pharmaceutical Science Conferences"
+      }
     ]
   },
   "display_features": [
@@ -126,12 +133,24 @@
       "link": "/sessions"
     },
     {
+      "title": "Scientific Program",
+      "link": "/scientific-program"
+    },
+    {
+      "title": "Previous Conference",
+      "link": "/previous-conference"
+    },
+    {
       "title": "Guidelines",
       "link": "/guidelines"
     },
     {
       "title": "FAQs",
       "link": "/faqs"
+    },
+    {
+      "title": "Venue",
+      "link": "/venue"
     },
     {
       "title": "Submit Abstract",
