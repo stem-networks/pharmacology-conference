@@ -206,7 +206,7 @@ a {
 }
 
 .banner_wrap button:hover {
-	background-color: var(--bannerhover-color);
+	background-color: var(--secondary-color);
 }
 
 .sq_mainbox {
