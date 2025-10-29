@@ -125,6 +125,13 @@
         "content": "Explore highlights from our previous Pharma Conference. Discover key sessions, groundbreaking research, expert speakers, and networking moments that shaped past events, paving the way for PPBC 2025 in Germany.",
         "meta_keywords": "Previous Pharma Conference, Pharmaceutics Past Events, Biotechnology Conference Highlights, Pharma and Biotechnology Conference History, Pharma Event Recap, Pharmaceutics Conference Archives, Previous Drug Development Conference, Pharma and Biotech Research Events, Global Pharma Conference History, Past Pharmaceutical Science Conferences"
       }
+    ],
+    "galleryEvent": [
+      {
+        "title": "Pharma PBC 2025 | Highlights from the Pharma Conference in Geneva, Switzerland",
+        "content": "Discover the success of Pharma PBC 2025, held in Geneva, Switzerland. Explore conference highlights, keynote sessions, scientific presentations, and networking moments from this global event that brought together experts in pharmaceuticals, pharmacology, and pharmaceutics.",
+        "meta_keywords": "Pharma PBC 2025, Pharma Conference 2025, Pharmacology Conference 2025, Pharmaceutics Summit, Pharmaceutical Research Conference, Drug Development Conference, Pharma Innovations 2025, PBC Geneva 2025, Pharma Global Meet, Pharmaceutical Science Event"
+      }
     ]
   },
   "display_features": [
@@ -138,7 +145,13 @@
     },
     {
       "title": "Previous Conference",
-      "link": "/previous-conference"
+      "link": "/previous-conference",
+      "subItems": [
+        {
+          "title": "2025 Conference Report",
+          "link": "/previous-conference"
+        }
+      ]
     },
     {
       "title": "Guidelines",
