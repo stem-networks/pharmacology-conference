@@ -129,7 +129,7 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
         {/* Header Upper */}
         <div className="header-upper">
           <div className="auto-container">
-            <div style={{ justifyContent: "space-between", display: "flex" }}>
+            <div style={{ justifyContent: "space-between", display: "flex", alignItems: "center" }}>
               <div className="logo-main-block">
                 <Link
                   href="/"
