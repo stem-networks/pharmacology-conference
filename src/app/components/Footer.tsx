@@ -242,7 +242,7 @@ const Footer: React.FC<FooterProps> = ({ generalData, indexPageData }) => {
               </Link>
               <br />
               <i className="bx bxl-whatsapp"></i>{" "}
-              <Link href="https://wa.me/41774144691" title={general?.whatsapp}>
+              <Link href="https://wa.me/41774144691" target="_blank" title={general?.whatsapp}>
                 {general?.whatsapp}
               </Link>
               <br />
